@@ -1,0 +1,75 @@
+/* *{
+    background: #fff;
+} */
+li {
+    list-style-type: none;
+}
+
+
+.container-fluid{
+    background: #fff;
+   
+}
+.nav-link{
+color: #ababab;
+margin-right: 70px;
+}
+
+.nav-link:active{
+    color: #00b39b;
+}
+
+.navbar-brand{
+    margin-left: 120px;
+    display: flex;
+    margin-top: 15px;
+    
+}
+
+ .text-warning{
+    display: flex;
+    color: #00b39b;
+    font-size: 30px;
+    
+}
+.group-bar{
+    color: #ababab;
+    
+}
+
+.text-head{
+    color: #00b39b;
+}
+
+.img-logo{
+    width: 15%;
+    margin: auto;
+}
+
+.nav-item{
+    margin-top: 15px;
+}
+.card1{
+    background: #00b39b;
+}
+
+.card2{
+    background: #3d83df;
+}
+
+.card-link a{
+    color: #fff;
+    font-size: 20px;
+}
+
+.text1{
+    color: #00b39b;
+}
+
+.card-title1{
+    color: #00b39b;
+}
+
+.bibi-flag{
+    color: #00b39b;
+}
